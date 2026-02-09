@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+
+# Large data files (adjust as needed)
+*.csv
+*.xlsx
+*.db
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Compressed/Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tar.gz
